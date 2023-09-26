@@ -1,0 +1,4 @@
+/node_modules
+
+## 협업용이 아니기 때문에 무시
+package-lock.json
